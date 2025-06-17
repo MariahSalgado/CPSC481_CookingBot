@@ -28,3 +28,13 @@ recipes.pkl – Preprocessed recipe data
 similar.pkl – Similarity matrix
 
 IMG_9489.jpg – Background image for UI styling
+
+Screenshots:
+
+<img width="1006" alt="Screenshot 2025-06-17 at 2 38 42 PM" src="https://github.com/user-attachments/assets/59e3a967-a510-41a9-9505-edb4678ef52f" />
+
+<img width="1021" alt="Screenshot 2025-06-17 at 2 38 52 PM" src="https://github.com/user-attachments/assets/50548f5b-573a-41af-890d-5b5a91708769" />
+
+<img width="1027" alt="Screenshot 2025-06-17 at 2 39 01 PM" src="https://github.com/user-attachments/assets/9e5e8008-b936-40c9-b32b-84d96332cde1" />
+
+
